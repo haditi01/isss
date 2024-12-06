@@ -1,0 +1,24 @@
+.study-material h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .study-material ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .study-material ul li {
+    margin-bottom: 15px;
+  }
+  
+  .study-material ul li a {
+    font-size: 18px;
+    color: purple;
+    text-decoration: none;
+  }
+  
+  .study-material ul li a:hover {
+    text-decoration: underline;
+  }
+  

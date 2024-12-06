@@ -1,0 +1,78 @@
+/* Sidebar Styling */
+.sidebar {
+    width: 200px; /* Reduced sidebar width */
+    height: 100vh;
+    background-color: purple; /* Purple background */
+    padding: 20px;
+    position: fixed;
+  }
+  
+  .sidebar h1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 20px 0;
+  }
+  
+  .sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  /* Course Grid and Card Styling */
+  .courses {
+    padding: 20px;
+    margin-left: 220px; /* Adjust margin to accommodate the sidebar */
+    background-color: #fff;
+  }
+  
+  .courses h2 {
+    font-size: 24px; /* Reduced font size */
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .courses-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 15px; /* Reduced spacing between cards */
+  }
+  
+  .course-card {
+    background-color: #f9f9f9;
+    padding: 15px; /* Reduced padding */
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    width: 220px; /* Reduced card width */
+    max-width: 100%;
+    text-align: center;
+  }
+  
+  .course-card:hover {
+    transform: translateY(-5px); /* Smaller hover effect */
+  }
+  
+  .course-card h3 {
+    color: purple; /* Purple color */
+    font-size: 18px; /* Smaller title font */
+    margin-bottom: 10px;
+  }
+  
+  .course-card p {
+    color: #555;
+    font-size: 14px;
+  }
+  
