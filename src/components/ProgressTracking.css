@@ -1,0 +1,72 @@
+/* Sidebar Styling */
+.sidebar {
+    width: 200px; /* Keep this consistent across pages */
+    height: 100vh;
+    background-color: purple; /* Purple background */
+    padding: 20px;
+    position: fixed;
+  }
+  
+  .sidebar h1 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 20px 0;
+  }
+  
+  .sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  /* Content Area Styling */
+  .content {
+    margin-left: 220px; /* Ensure this aligns with the sidebar's width */
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #fff;
+  }
+  
+  /* Progress Tracking Specific Styling */
+  .progress-tracking h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .progress-tracking table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .progress-tracking table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  .progress-tracking th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .progress-tracking th {
+    background-color: purple;
+    color: white;
+  }
+  
+  .progress-tracking td {
+    background-color: #f9f9f9;
+  }
+  
+
+  
