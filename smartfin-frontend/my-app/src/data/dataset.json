@@ -1,0 +1,293 @@
+[
+    {
+        "Date": 1642291200000,
+        "Description": "e nagarpalika",
+        "Debit": 4736,
+        "Credit": 0,
+        "Amount": -4736,
+        "sub-category": "taxes",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1642896000000,
+        "Description": "other",
+        "Debit": 250,
+        "Credit": 0,
+        "Amount": -250,
+        "sub-category": "other",
+        "Category": "other expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643068800000,
+        "Description": "e nagarpalika",
+        "Debit": 797,
+        "Credit": 0,
+        "Amount": -797,
+        "sub-category": "taxes",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643068800000,
+        "Description": "electricity bill",
+        "Debit": 98,
+        "Credit": 0,
+        "Amount": -98,
+        "sub-category": "electricity bill",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643241600000,
+        "Description": "money received",
+        "Debit": 0,
+        "Credit": 3000,
+        "Amount": 3000,
+        "sub-category": "salary",
+        "Category": "salary",
+        "Category Type": "income"
+    },
+    {
+        "Date": 1643414400000,
+        "Description": "rent received",
+        "Debit": 0,
+        "Credit": 7000,
+        "Amount": 7000,
+        "sub-category": "house rent",
+        "Category": "salary",
+        "Category Type": "income"
+    },
+    {
+        "Date": 1643414400000,
+        "Description": "food",
+        "Debit": 1000,
+        "Credit": 0,
+        "Amount": -1000,
+        "sub-category": "groceries & foods",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643500800000,
+        "Description": "petrol",
+        "Debit": 500,
+        "Credit": 0,
+        "Amount": -500,
+        "sub-category": "petrol",
+        "Category": "transport",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643587200000,
+        "Description": "gas",
+        "Debit": 1000,
+        "Credit": 0,
+        "Amount": -1000,
+        "sub-category": "gas",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643587200000,
+        "Description": "trust",
+        "Debit": 366,
+        "Credit": 0,
+        "Amount": -366,
+        "sub-category": "Donation",
+        "Category": "charity",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1643760000000,
+        "Description": "salary",
+        "Debit": 0,
+        "Credit": 20900,
+        "Amount": 20900,
+        "sub-category": "salary",
+        "Category": "salary",
+        "Category Type": "income"
+    },
+    {
+        "Date": 1643846400000,
+        "Description": "recharge",
+        "Debit": 151,
+        "Credit": 0,
+        "Amount": -151,
+        "sub-category": "mobile phones",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644192000000,
+        "Description": "electricity bill",
+        "Debit": 100,
+        "Credit": 0,
+        "Amount": -100,
+        "sub-category": "electricity bill",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644451200000,
+        "Description": "house furnishing",
+        "Debit": 10000,
+        "Credit": 0,
+        "Amount": -10000,
+        "sub-category": "house furnishing",
+        "Category": "maintainance",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644451200000,
+        "Description": "house furnishing",
+        "Debit": 860,
+        "Credit": 0,
+        "Amount": -860,
+        "sub-category": "house furnishing",
+        "Category": "maintainance",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644451200000,
+        "Description": "electricity bill",
+        "Debit": 93,
+        "Credit": 0,
+        "Amount": -93,
+        "sub-category": "electricity bill",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644451200000,
+        "Description": "petrol",
+        "Debit": 500,
+        "Credit": 0,
+        "Amount": -500,
+        "sub-category": "petrol",
+        "Category": "transport",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644537600000,
+        "Description": "house furnishing",
+        "Debit": 5500,
+        "Credit": 0,
+        "Amount": -5500,
+        "sub-category": "house furnishing",
+        "Category": "maintainance",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644624000000,
+        "Description": "food",
+        "Debit": 124,
+        "Credit": 0,
+        "Amount": -124,
+        "sub-category": "groceries & foods",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644624000000,
+        "Description": "gas",
+        "Debit": 1000,
+        "Credit": 0,
+        "Amount": -1000,
+        "sub-category": "Gas",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644806400000,
+        "Description": "money received",
+        "Debit": 0,
+        "Credit": 5000,
+        "Amount": 5000,
+        "sub-category": "salary",
+        "Category": "salary",
+        "Category Type": "income"
+    },
+    {
+        "Date": 1644806400000,
+        "Description": "food",
+        "Debit": 1000,
+        "Credit": 0,
+        "Amount": -1000,
+        "sub-category": "groceries & foods",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644806400000,
+        "Description": "house furnishing",
+        "Debit": 50,
+        "Credit": 0,
+        "Amount": -50,
+        "sub-category": "house furnishing",
+        "Category": "maintainance",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644806400000,
+        "Description": "medical",
+        "Debit": 43,
+        "Credit": 0,
+        "Amount": -43,
+        "sub-category": "health",
+        "Category": "medical",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644806400000,
+        "Description": "house furnishing",
+        "Debit": 2500,
+        "Credit": 0,
+        "Amount": -2500,
+        "sub-category": "house furnishing",
+        "Category": "maintainance",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644883200000,
+        "Description": "rent received",
+        "Debit": 0,
+        "Credit": 7000,
+        "Amount": 7000,
+        "sub-category": "house rent",
+        "Category": "salary",
+        "Category Type": "income"
+    },
+    {
+        "Date": 1644883200000,
+        "Description": "recharge",
+        "Debit": 211,
+        "Credit": 0,
+        "Amount": -211,
+        "sub-category": "mobile phones",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1644979200000,
+        "Description": "medical",
+        "Debit": 1000,
+        "Credit": 0,
+        "Amount": -1000,
+        "sub-category": "health",
+        "Category": "medical",
+        "Category Type": "expenses"
+    },
+    {
+        "Date": 1645065600000,
+        "Description": "electricity bill",
+        "Debit": 100,
+        "Credit": 0,
+        "Amount": -100,
+        "sub-category": "electricity bill",
+        "Category": "living expenses",
+        "Category Type": "expenses"
+    }
+]
+ 

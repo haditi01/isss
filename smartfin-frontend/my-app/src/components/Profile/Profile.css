@@ -1,0 +1,45 @@
+/* CSS for Profile Component */
+.profile-container {
+  padding: 50px;
+  background-color: white;
+ 
+
+   /* Adding a solid border */
+  /* Rounded corners */
+   /* Adding a subtle shadow */
+}
+
+.profile-paper {
+  padding: 20px;
+  margin: 60px;
+  background-color: purple; /* Light background color */
+  border: px solid purple; /* Adding a border to profile paper */
+  border-radius: 50px; /* Rounded corners */
+}
+
+.profile-section {
+  padding: 20px;
+  margin: 1%;
+}
+
+.profile-avatar {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+/* Custom styling for different sections */
+.profile-section:nth-child(odd) {
+  background-color: #efefef; /* Light gray */
+}
+
+.profile-section:nth-child(even) {
+  background-color: #ffffff; /* Lighter gray */
+}
+
+/* Border effect for the profile container */
+.profile-container {
+  border: 2px solid #1c1ccf; /* Adding a solid border */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow */
+}

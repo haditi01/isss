@@ -1,0 +1,103 @@
+/* src/App.css */
+.app-container {
+  display: flex;
+  height: 100vh;
+  background: rgb(251, 251, 251);
+}
+
+.login-page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.sidebar {
+  width: 200px;
+  background: #007BFF;
+  color: #fff;
+  padding: 20px;
+  margin-right: 20px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 20px;
+}
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Reduce the gap between components */
+}
+
+.financial-overview,
+.my-ttasks,
+.expense-categories,
+.financial-progress,
+.financial-widget {
+  background: #ffffff;
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 10px;
+  color: black;
+  width: calc(50% - 10px); /* Adjust width to account for reduced gap */
+  margin-bottom: 10px; /* Reduce margin-bottom */
+  margin-top: 10px; /* Reduce margin-top */
+  border: 2px solid #cccccc; /* Solid border with light grey color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+/* Adjustments for specific pages */
+.login-page .main {
+  justify-content: center; /* Center content vertically on login page */
+  align-items: center; /* Center content horizontally on login page */
+  padding: 0; /* Remove padding on login page main container */
+}
+
+.login-page .main-content {
+  width: 100%; /* Full width on login page */
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+}
+.chatbot-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.chatbot-icon img {
+  width: 50px;
+  height: 50px;
+}
+
+.chatbot-frame {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 400px;
+  height: 600px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chart-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.chart {
+  background: #f4f4f4;
+  
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

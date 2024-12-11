@@ -1,0 +1,18 @@
+/* src/components/Explore.css */
+.explore {
+    background-color: #1b1b1b;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin: 20px;
+  }
+  
+  .explore h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .explore p {
+    font-size: 1em;
+  }
+  

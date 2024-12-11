@@ -1,0 +1,41 @@
+/* src/components/FinancialProgress.css */
+
+.financial-progress {
+    margin: 20px;
+  }
+  
+  .financial-progress h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .financial-progress form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .financial-progress label {
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  
+  .financial-progress input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .financial-progress button {
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .financial-progress button:hover {
+    background-color: #0056b3;
+  }
+  

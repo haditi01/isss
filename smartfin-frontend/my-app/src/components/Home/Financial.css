@@ -1,0 +1,44 @@
+/* src/Financial.css */
+.financial {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    color: #000000;
+    margin-bottom: 10px; /* Reduce margin-bottom */
+    margin-top: 10px; /* Reduce margin-top */
+    border: 2px solid #cccccc; /* Solid border with light grey color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+  }
+
+.financial h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.financial-item {
+    margin-bottom: 20px;
+}
+
+.financial-item h3 {
+    font-size: 1.2em;
+    margin: 0;
+}
+
+.financial-item p {
+    margin: 5px 0 0;
+}
+
+.explore-button {
+    color: purple;
+    border: 2px solid purple;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.explore-button:hover {
+    background-color: #efefef;
+    
+}

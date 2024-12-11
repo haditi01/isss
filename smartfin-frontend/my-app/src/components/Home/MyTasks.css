@@ -1,0 +1,62 @@
+.my-tasks {
+  background: #eeeef4;
+  padding: 10px; /* Reduced padding to match FinancialOverview */
+  border-radius: 10px;
+  color: #000000;
+  display: inline-block;
+  vertical-align: top;
+  width: calc(30% - 10px); /* Match width of FinancialOverview */
+  height: 300px; /* Match height of FinancialOverview */
+  margin-right: 10px; /* Reduced margin */
+  overflow-y: auto; /* Enable vertical scrolling */
+  border: 2px solid #cccccc; /* Solid border with light grey color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+.my-tasks h2 {
+  margin-bottom: 10px; /* Reduced margin */
+}
+
+.my-tasks ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.my-tasks .task-item {
+  display: flex;
+  align-items: center;
+  background: white;
+  padding: 10px; /* Adjusted padding for task items */
+  border: purple;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.my-tasks .task-item.checked {
+  background: #2a2a2a; /* Background color for checked tasks */
+  opacity: 0.6; /* Reduced opacity for checked tasks */
+}
+
+.my-tasks .task-item input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.my-tasks .task-item label {
+  flex: 1;
+  cursor: pointer;
+}
+
+.my-tasks .task-item .status {
+  color: #bbb;
+  margin-left: auto; /* Align status to the right */
+}
+
+.plus{
+  margin-left: 150px;
+  background-color: purple;
+  color: white;
+font-size: larger;
+padding-left: 10px;
+padding-right: 10px;
+}

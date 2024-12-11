@@ -1,0 +1,57 @@
+/* src/ExpenseCategories.css */
+.expense-categories {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px; /* Match padding of financial-overview */
+    color: black;
+    margin: 0 10px 10px 0; /* Match margin of financial-overview */
+    display: inline-block;
+    width: calc(30% - 10px); /* Match width of financial-overview */
+    height: 300px; /* Match height of financial-overview */
+     border: 2px solid #cccccc; /* Solid border with light grey color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+  }
+
+.expense-categories h2 {
+    font-size: 1.2em; /* Adjusted for a smaller size */
+    margin-bottom: 10px; /* Reduced margin */
+}
+
+.expense-categories ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.expense-categories li {
+    display: flex;
+    align-items: center;
+    padding: 5px 0; /* Reduced padding to fit in the new dimensions */
+    border-bottom: 1px solid #333;
+}
+
+.expense-categories li:last-child {
+    border-bottom: none;
+}
+
+.expense-categories img {
+    width: 20px; /* Adjusted to smaller size */
+    height: 20px; /* Adjusted to smaller size */
+    margin-right: 5px; /* Reduced margin */
+}
+
+.expense-categories button {
+    background-color: #ffffff;
+    border: none;
+    color: purple;
+    padding: 8px 16px; /* Adjusted padding */
+    border: 2px solid purple;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px; /* Reduced margin */
+    font-size: 0.9em; /* Reduced font size */
+}
+
+.expense-categories button:hover {
+    background-color: #3700b3;
+}

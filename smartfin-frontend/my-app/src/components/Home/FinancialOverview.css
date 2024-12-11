@@ -1,0 +1,50 @@
+/* src/components/FinancialOverview.css */
+.financial-overview {
+  background: white;
+  padding: 10px; /* Reduced padding */
+  border-radius: 10px;
+  color: black;
+  display: inline-block;
+  width: calc(30% - 10px); /* Further reduced width */
+  height: 300px; /* Allow auto height */
+  margin-right: 10px; /* Reduced margin */
+  border: 2px solid #cccccc; /* Solid border with light grey color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px; /* Reduced gap */
+}
+
+.calendar-header {
+  display: contents;
+}
+
+.day-header {
+  text-align: center;
+  font-weight: bold;
+  padding: 3px 0; /* Reduced padding */
+  background-color: #c6f2f5;
+  border-radius: 5px;
+  font-size: 12px; /* Reduced font size */
+}
+
+.calendar-grid {
+  display: contents;
+}
+
+.calendar-day {
+  text-align: center;
+  padding: 3px 0; /* Reduced padding */
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 2px solid #cccccc;
+  color: #000000;
+  font-size: 12px; /* Reduced font size */
+}
+
+.calendar-day.empty {
+  background-color: transparent;
+}
